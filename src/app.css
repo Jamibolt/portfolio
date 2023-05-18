@@ -1,0 +1,146 @@
+.body{
+    background-color: blue;
+}
+
+.headertitle{
+    background-color: aqua;
+text-align: center;
+font-size: 100px;
+font-family:fantasy;
+
+}
+
+.header{
+    background-image: url('https://i.pinimg.com/736x/2f/45/0d/2f450d579214507f3c4b0b579a2e1733.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.ncgames{
+    margin: 0%;
+    text-align: left;
+}
+.firstproject{
+    
+    font-size: 50px;
+    font-family:fantasy;
+    background-color: aqua;
+        background-size: 80%;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;  
+        margin: 5%;
+        border-radius: 25px;
+        padding: 2%;
+        padding-top: 0%;
+        margin-right: 20%;
+        
+}
+.firstproject:hover{
+    margin-right: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.ncgameslinks{
+display: inline;
+font-size: 15px;
+justify:space-evenly;
+vertical-align: bottom;
+}
+/* .ncgamesbackendlink{
+    margin-right: 5%;
+}
+.ncgamesfrontendlink{
+    margin-right: 5%;
+} */
+
+.ncgamelinklist{
+    list-style-type: none;
+}
+.ncgameshostedlink{
+    text-align:end
+}
+
+.ncgameimage{
+    text-align: right;
+    margin-bottom: 10px;
+    height: 20%;
+    width: 30%;
+    display: inline-block;
+}
+.secondproject{
+    text-align: center;
+    font-size: 50px;
+    font-family:fantasy;
+    background-color: rgb(255, 242, 60);
+        background-size: 80%;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;  
+        margin: 5%;
+        border-radius: 25px;
+        padding: 5%;
+        margin-right: 20%;
+        
+}
+.secondproject:hover{
+    margin-right: 5%;
+  
+}
+.pokemonbattlerlink{
+    font-size: 15px;
+    text-align: end;
+    }
+
+    .pokemonimage{
+        margin-bottom: 20px;
+        height: 250px;
+        width: 300px;
+    }
+    .pokemonbattler{
+        margin: 0%;
+        text-align: left;
+    }
+    .thirdproject{
+        text-align: center;
+        font-size: 50px;
+        font-family:fantasy;
+        background-color: rgb(238, 228, 229);
+            background-size: 80%;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;  
+            margin: 5%;
+            border-radius: 25px;
+            padding: 5%
+            
+    }
+    .skincancerdiagnostic{
+        margin: 0%;
+        text-align: left;
+    }
+    .skincancerlinks{
+        justify-self: space-evenly;
+        text-align: justify;
+        display: inline-block;
+        font-size: 15px;
+        }
+       
+        .moleimage{
+            margin-bottom: 20px;
+            height: 250px;
+            width: 300px;
+        }
+        .usefullinks{
+            display: inline;
+        }
+        .linkedinimage{
+            height: 50px;
+            width: 50px;
+            align-items: center;
+        }
+        .githubimage{
+            height: 50px;
+            width: 50px;
+
+        }
